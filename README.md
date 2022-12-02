@@ -1,2 +1,2 @@
-# calculator
-calculator like any other
+# js calculator
+calculator using js
