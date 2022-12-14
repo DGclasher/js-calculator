@@ -1,6 +1,6 @@
 const display = document.querySelector("#display")
 const btns = document.querySelectorAll("button")
-
+console.log(btns);
 btns.forEach((item)=>{
     item.onclick = () => {
         if(item.id=="clear"){

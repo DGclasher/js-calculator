@@ -151,3 +151,19 @@ button#equal {
     background-color: #223323;
     color: #ffffff;
   }
+  .copyright{
+    position: sticky;
+    bottom: 2px;
+    font-size: 20px;
+    color: black;
+  }
+  #copyright-name{
+    text-decoration: none;
+    color: black;
+  }
+  #copyright-name:visited{
+    color: grey;
+  }
+  #copyright-name:hover{
+    color: #ffffff;
+  }
